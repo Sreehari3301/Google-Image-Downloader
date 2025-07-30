@@ -42,8 +42,8 @@ class GoogleImageDownloader:
 
 def main():
     # Replace these with your actual API credentials
-    API_KEY = 'AIzaSyCNzm-1vqtEFhOyvaV-RggBU3KDcJLsxY0'
-    CX = 'c4dde8b42aebb458d'
+    API_KEY = ''
+    CX = ''
 
     # Create downloader instance
     downloader = GoogleImageDownloader(API_KEY, CX)
